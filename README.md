@@ -12,7 +12,7 @@
 ## 2、Javascript
 
 - 定时器工作原理
-- event loop
+- [event loop](https://github.com/loosenRogers/Knowledge-Points-in-FE-Interview/issues/2)
 - js变量存储机制（值传递和引用传递）
 - this
 - ajax与comet
